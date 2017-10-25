@@ -28,6 +28,7 @@ var flop2 = ff.flop
 // However, it's easy to verify the number of elements in a FlippyFlop
 var count = ff.length
 
+```
 # Contact
 
 You can most easily reach me on twitter [@_Shakeel](http://twitter.com/_Shakeel).
